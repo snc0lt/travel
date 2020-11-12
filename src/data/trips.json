@@ -1,0 +1,26 @@
+[
+  {
+    "img":"../assets/images/london.jpg",
+    "alt":"London",
+    "name":"London",
+    "button":"view destination"
+  },
+  {
+    "img":"../assets/images/ny.jpg",
+    "alt":"New York",
+    "name":"New York",
+    "button":"view destination"
+  },
+  {
+    "img":"../assets/images/paris.jpg",
+    "alt":"Paris",
+    "name":"Paris",
+    "button":"view destination"
+  },
+  {
+    "img":"../assets/images/sydney.jpg",
+    "alt":"Sydney",
+    "name":"Sydney",
+    "button":"view destination"
+  }
+]
