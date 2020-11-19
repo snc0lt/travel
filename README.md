@@ -2,13 +2,19 @@
 
 ### Home page:
 
-![alt text](./src/images/shot1.png "Home Page")
+![alt text](./src/images/Home.png "Home Page")
 
-### Product Page:
-![alt text](./src/images/shot2.png "Destinations")
+### Home mobile:
+![alt text](./src/images/Home-mobile.png "Destinations")
 
-### Login:
-![alt text](./src/images/shot3.png "Stats & Email")
+### Why us:
+![alt text](./src/images/Destinations.png "Destinationsl")
+
+### Testimonials:
+![alt text](./src/images/Testimonials.png "Testimonials")
+
+### Why Us:
+![alt text](./src/images/Whyus.png "Testimonials")
 
 
 ## 🚀 Quick start
