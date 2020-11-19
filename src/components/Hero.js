@@ -1,18 +1,20 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Button } from './Button'
-import video from '../assets/videos/BokehLights.mp4'
+// import Img from 'gatsby-image';
+// import video from '../assets/videos/BokehLights.mp4'
+import TravelBg from '../assets/videos/travel.mp4';
 
 const Hero = () => {
   return (
     <HeroContainer>
       <HeroBg>
-        <VideoBg src={video} type='video/mp4' autoPlay muted playsInline loop />
+        <VideoBg src={TravelBg} type='video/mp4' autoPlay muted playsInline loop />
       </HeroBg>
       <HeroContent>
         <HeroItems>
-          <HeroH1>JS for fun</HeroH1>
-          <HeroP>Discover it with me..!</HeroP>
+          <HeroH1>Explorex</HeroH1>
+          <HeroP>Discover the most amezing adventures with us</HeroP>
           <Button primary='true' big='true' to='/trips' round='true'>let's go</Button>
         </HeroItems>
       </HeroContent>
@@ -84,7 +86,7 @@ const HeroH1 = styled.h1`
 const HeroP = styled.p` 
   font-size: clamp(1rem, 3vw, 3rem);
   margin-bottom: 2rem;
-  font-weight: 400
+  font-weight: 400;
 `
 const VideoBg = styled.video` 
 width: 100%;
