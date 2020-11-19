@@ -8,7 +8,7 @@ import { Button } from "./Button";
 const Header = () => (
   <Nav>
     <NavLink to='/'>
-      eXplorer
+      Explorex
     </NavLink>
     <Bars />
     <NavMenu>
@@ -39,6 +39,7 @@ const Nav = styled.nav`
 
 const NavLink = styled(Link)`
   color: white;
+  font-weight: 800;
   display: flex;
   align-items: center;
   text-decoration: none;
